@@ -2,7 +2,7 @@
 
 This project implements a **Full-Stack Form** for capturing client data, saving it to MongoDB, and sending conditional email notifications based on the selected **Disposition**.
 
-It was designed and developed with a **production-quality architecture**, following best practices used by senior developers.
+It was designed and developed with a **production-quality architecture**.
 
 ---
 
@@ -74,7 +74,7 @@ multycomm-assignment/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/multycomm-assignment.git
+git clone https://github.com/NamandeepNegi/multycomm-assignment.git
 cd multycomm-assignment
 ```
 
@@ -119,4 +119,5 @@ VITE_API_URL=http://localhost:5000
 ```bash
 npm run dev
 ```
+
 
