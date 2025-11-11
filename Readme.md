@@ -119,6 +119,7 @@ VITE_API_URL=http://localhost:5000
 ```bash
 npm run dev
 ```
+Backend will start on 👉 http://localhost:5173
 
 
 
