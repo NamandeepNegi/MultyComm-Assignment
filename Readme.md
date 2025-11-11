@@ -56,7 +56,7 @@ multycomm-assignment/
 ├─ frontend/
 │ ├─ src/
 │ │ ├─ App.jsx
-│ │ ├─ index.jsx
+│ │ ├─ main.jsx
 │ │ ├─ components/
 │ │ │ └─ EnquiryForm.jsx
 │ │ └─ styles.css
@@ -119,5 +119,6 @@ VITE_API_URL=http://localhost:5000
 ```bash
 npm run dev
 ```
+
 
 
